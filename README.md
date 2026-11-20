@@ -2,7 +2,7 @@
 
 Detects every player in a football clip, follows each one across frames with a stable ID, and measures **distance covered** and **speed (mph)** per player. Outputs an annotated video plus CSVs.
 
-![demo](assets/demo.gif) <!-- add a 5-10 s GIF of your best clip here -->
+![demo](demo.gif) <!-- add a 5-10 s GIF of your best clip here -->
 
 ## How it works
 
