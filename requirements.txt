@@ -1,0 +1,6 @@
+ultralytics>=8.3
+supervision>=0.25
+lap>=0.5  # needed by Ultralytics ByteTrack
+opencv-python
+numpy
+pandas
